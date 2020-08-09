@@ -1,11 +1,13 @@
 # YML-Config-Translator
 Translates yml files from english to other languages
 # How to use
-1. Unzip this archive to wherever you need
+1. Clone this repository
 
-2. Put you config file to translator directory(ConfigTranslator) which you want to translate with .yml extension.
+2. Locate to ConfigTranslator
 
-3. To run this translator use command line and type:
+3. Put you config file to translator directory(ConfigTranslator) which you want to translate with .yml extension.
+
+4. To run this translator use command line and type:
 java -jar ConfigTranslator.jar <file to translate(.yml)> <name of output file(.yml)> <iso language code>
 
 ## NOTE:
